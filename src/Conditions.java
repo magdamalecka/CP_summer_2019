@@ -17,6 +17,7 @@ public class Conditions {
         if v {
             System.out.println("v is true");
         }
+
         int a = 7;
         if (5 > a) {
             System.out.println("5>a");
